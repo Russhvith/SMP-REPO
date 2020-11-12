@@ -3,5 +3,5 @@ Not released yet...
 # Server url
 Coming soon
 # Links to another resources you can use
-[Bug Tracker or suggestion](https://github.com/danilacasito/SMP-REPO/issues)
-[Wiki](https://github.com/danilacasito/SMP-REPO/issues)
+Report a bug: [Bug Tracker or suggestion](https://github.com/danilacasito/SMP-REPO/issues)
+See our server's wiki: [Wiki](https://github.com/danilacasito/SMP-REPO/wiki)
